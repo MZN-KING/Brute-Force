@@ -12,14 +12,14 @@ echo
 echo
 echo
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
-echo $i" |"$cy"     INDONESIA DARK TERMUX ASSOCIATE"$i"         |"
+echo $i" |"$cy"     BRUTE-FORCE TERMUX HACKING"$i"         |"
 echo $i" |"$me"─────────────────────────────────────────────"$i"|"
-echo $i" |"$pu" AUTHOR :"$ku" RISKI DARMAWAN  [FR13ND8]"$i"          |"
-echo $i" |"$pu" FACEBOOK :"$ku" Riski Darmawan"$i"                   |"
-echo $i" |"$pu" THANKS TO :"$cy"~ [MR.P3RC1L] [MR.S∆MAx] [MR.B]"$i"  |"
-echo $i" |"$cy"            ~ [cyber] [%MR.S%] [AldykaPrygh]"$i" |"
-echo $i" |"$pu" Contack WhatsApp :"$ku" 085835787069"$i"             |"
-echo $i" |"$pu" Contack Gmail :"$ku" dermawan0858@gmail.com"$i"      |"
+echo $i" |"$pu" AUTHOR :"$ku" MAZEEN AHAMED [MZN-KING]"$i"          |"
+echo $i" |"$pu" FACEBOOK :"$ku" Mazeen Ahamed"$i"                   |"
+echo $i" |"$pu" THANKS TO :"$cy"~ [MY USERS] [MY USERS] [MR.B]"$i"  |"
+echo $i" |"$cy"            ~ [MZN-KING] [%ALL%] [Mazeen Ahamed]"$i" |"
+echo $i" |"$pu" Contact WhatsApp :"$ku" 94771227821"$i"             |"
+echo $i" |"$pu" Contact Gmail :"$ku" mazeenahamed23@gmail.com"$i"      |"
 echo $i"["$bi"•"$i"]"$me"───────────────────────────────────────────"$i"["$bi"•"$i"]"
 echo
 echo $i"────────────────────────────────    ─────"
@@ -47,7 +47,7 @@ echo $i"|"$me"18"$i" |"$cy" INSTALL BAHAN DULU COEG  "$i"|"$i"    |"$cy" E"$i" |
 echo $i"|"$me"19"$i" |"$cy" KELUAR/EXIT PROGRAM      "$i"|"$i"    |"$cy" N"$i" |"
 echo $i"────────────────────────────────    ─────"
 echo
-echo $me"┌==="$bi"["$i"FR13ND8"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
+echo $me"┌==="$bi"["$i"MZN-KING"$bi"]"$me"======"$bi"["$i""Pilih Nomornya""$bi"]"
 echo $me"¦"
 read -p"└──# " pil
 
@@ -255,8 +255,8 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Kesalahan Kamu Bisa Nanya Kepada Saya"
 sleep 2
-echo $ku"WhatsApp :"$i" 085835787069"
-echo $ku"Facebook :"$i" Riski Darmawan"
+echo $ku"WhatsApp :"$i" 94771227821"
+echo $ku"Facebook :"$i" Mazeen Ahamed"
 sleep 2
 echo $pur">> Thanks Yang Sudah Support Saya <<"
 exit
